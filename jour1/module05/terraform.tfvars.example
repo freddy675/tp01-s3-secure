@@ -1,0 +1,11 @@
+# Exemple de configuration pour les nouveaux contributeurs
+# Renommez ce fichier en 'terraform.tfvars' pour l'utiliser
+
+project     = "formation"
+environment = "dev"
+owner       = "votre-nom"
+
+tags = {
+  Team        = "DevOps"
+  Launched_By = "Terraform"
+}
