@@ -1,0 +1,6 @@
+vpc_id        = "vpc-069d4125c9d3310ee"
+subnet_id     = "subnet-0542f3c290c618a77"
+instance_type = "t3.micro"
+aws_region    = "eu-west-3"
+project       = "tp03-ec2"
+environment   = "dev"
